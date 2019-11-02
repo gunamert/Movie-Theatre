@@ -17,7 +17,7 @@ import java.util.List;
 
 /**
  * 
- *@author MERT GUNAY-041501007
+ *@author MERT GUNAY
  *@since 29.11.2017
  *@version 1.0
  *@see this program take a movie file and reading the movies and throw the movie class then made a menu.The user select his choice and program made the choice.
@@ -25,7 +25,7 @@ import java.util.List;
  *{@code} list movies-find mocie-highest rated movie- watchlist- add watchlist
  */
 
-public class Mert_Gunay {
+public class Main {
 
 	public static void main(String args[])throws Exception{
 		java.io.File file = new java.io.File("movies.txt");
